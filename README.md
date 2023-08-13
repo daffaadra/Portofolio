@@ -1,2 +1,2 @@
 # Portofolio
-# This is a portofolio of the projects that I did in college
+This Github contains several projects that I, Daffa Adra Ghifari Machmudin, had done in during my years studying Statistics at Universitas Indonesia and Hanyang University. The projects listed here include thesis project, courses final projects, and coursework activities. Among those, the topics shown in the files cover time series decomposition and modeling, survival analysis, multivariate analysis, and spatial regression. 
