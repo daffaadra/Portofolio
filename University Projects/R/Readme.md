@@ -1,19 +1,19 @@
 # File Descriptions
 
-## File 1
+## ARIMA Forecasting
 
 
-## File 2
+## Classification
 
 
-## File 3
+## Geographically Weighted Regression
 
 
-## File 4
+## Hierarchical Clustering
 
 
-## File 5
+## Mini Project Analisis Survival
 
 
-## File 6
+## Principal Component Analysis
 
