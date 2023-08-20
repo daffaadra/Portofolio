@@ -21,7 +21,7 @@ The Geographically Weighted Regression (GWR) project analyzes factors contributi
 6. Model selection with AIC
    
 ## Hierarchical Clustering
-
+Hierarchical Clustering method is used for this project regarding infectious disease across the then-33 provinces of Indonesia. The method splits the data into clusters in agglomerative manner. Two methods of hierarchical clustering is used: Complete Linkage and Ward. The result of each methods are shown in dendrograms. For further analysis, the sufficient amount of clusters to represent the data can be shown through an elbow plot.
 
 ## Mini Project Analisis Survival
 
