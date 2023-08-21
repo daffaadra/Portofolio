@@ -24,7 +24,12 @@ The Geographically Weighted Regression (GWR) project analyzes factors contributi
 Hierarchical Clustering method is used for this project regarding infectious disease across the then-33 provinces of Indonesia. The method splits the data into clusters in agglomerative manner. Two methods of hierarchical clustering is used: Complete Linkage and Ward. The result of each methods are shown in dendrograms. For further analysis, the sufficient amount of clusters to represent the data can be shown through an elbow plot.
 
 ## Mini Project Analisis Survival
-
+This mini project is a case study of expected patient death with the use of ICU ventilator using survival and hazard functions. There are four survival functions in this project that has its own criterions, which are:
+1. Without criterion
+2. Comorbidity
+3. Age 
+4. Comorbidity and Age
 
 ## Principal Component Analysis
+
 
