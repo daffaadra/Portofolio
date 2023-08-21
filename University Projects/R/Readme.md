@@ -31,5 +31,5 @@ This mini project is a case study of expected patient death with the use of ICU 
 4. Comorbidity and Age
 
 ## Principal Component Analysis
-
+Principal Component Analysis method is used to group multiple categories in Switzerland data based on underlying conditions, more known as dimensions. This "Swiss" data categories consist of fertility, agriculture, examination, education, religion (Catholic), and Infant Mortality. Principal Component Analysis uses eigen value in the process. To determine the number of dimensions, scree plot was used. As a result of PCA, the data can be grouped into two groups.  
 
