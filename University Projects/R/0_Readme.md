@@ -1,7 +1,7 @@
 # File Descriptions
 Files in this folder are codes in R format. These codes were made as part of projects throughout my year studying at Universitas Indonesia under Statistics major, Department of Mathematics.  
 ## ARIMA Forecasting
-This project uses ARIMA model to forecast future values of a stock security. Steps involved in the project are:
+This project uses ARIMA model to forecast future values of Jakarta Province's Ozon Pollutant. Steps involved in the project are:
 1. Stationary testing
 2. Model Specification
 3. Model Diagnostic
